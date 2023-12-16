@@ -1,5 +1,5 @@
 import pyfiglet
-from os import startfile
+import webbrowser  # Importing webbrowser module
 from assets_gen import assets_gen
 from video_gen import video_gen
 
@@ -25,4 +25,4 @@ video_id = assets_gen(topic)
 video_path = video_gen(video_id)
 
 # Display video
-startfile(video_path)
+webbrowser.open(video_path)  # Using webbrowser.open to open the video file

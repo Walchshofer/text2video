@@ -2,42 +2,34 @@
     assets_gen.py
 
     - This script generates the assets for the video (script, audio, images, videos)
-
-    Author: Juled Zaganjori    
+    - The original script is adapted for local use with balacoon tts by Patrick Walchshofer
+    - The original scripts author is Juled Zaganjori    
 '''
 
+from balacoon_tts import TTS
+from huggingface_hub import hf_hub_download, list_repo_files
+import librosa
 import os
 import openai
 import json
 import random
 import requests
 from dotenv import load_dotenv
-import azure.cognitiveservices.speech as speechsdk
-import librosa
 from tqdm import tqdm
 
 load_dotenv()
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# Set up TTS client
-speech_key = os.getenv("AZURE_SPEECH_KEY")
-service_region = os.getenv("AZURE_SPEECH_REGION")
-voices = ["en-US-JennyNeural", "en-US-GuyNeural", "en-US-AriaNeural", "en-US-DavisNeural", "en-US-AmberNeural", "en-US-AnaNeural", "en-US-AshleyNeural", "en-US-BrandonNeural", "en-US-ChristopherNeural", "en-US-CoraNeural", "en-US-ElizabethNeural", "en-US-EricNeural", "en-US-JacobNeural", "en-US-JaneNeural",
-          "en-US-JasonNeural", "en-US-MichelleNeural", "en-US-MonicaNeural", "en-US-NancyNeural", "en-US-RogerNeural", "en-US-SaraNeural", "en-US-SteffanNeural", "en-US-TonyNeural", "en-US-AIGenerate1Neural1", "en-US-AIGenerate2Neural1", "en-US-BlueNeural1", "en-US-JennyMultilingualV2Neural1", "en-US-RyanMultilingualNeural1"]
-speech_config = speechsdk.SpeechConfig(
-    subscription=speech_key, region=service_region)
-speech_config.speech_synthesis_voice_name = random.choice(voices)
-speech_synthesizer = speechsdk.SpeechSynthesizer(speech_config=speech_config, audio_config=None)
 
-# Global variables
-min_stock_video_length = 5  # seconds
-min_stock_image_length = 3  # seconds
-max_stock_video_length = 10  # seconds
-max_stock_image_length = 5  # seconds
-max_paragraphs = 3
-orientation = "landscape"
-asset_size = "medium"
+# Global variables defining asset characteristics and constraints
+min_stock_video_length = 5  # Minimum length of stock videos in seconds
+min_stock_image_length = 3  # Minimum display time for stock images in seconds
+max_stock_video_length = 10  # Maximum length of stock videos in seconds
+max_stock_image_length = 5  # Maximum display time for stock images in seconds
+max_paragraphs = 3  # Maximum number of paragraphs in the script
+orientation = "landscape"  # Preferred orientation for stock images and videos
+asset_size = "medium"  # Preferred size for stock images and videos
 
 # Generate random string
 
@@ -50,6 +42,12 @@ def get_random_string(length):
 
 # Setup video directory
 def video_setup():
+    """
+    Set up the video directory structure and generate a unique video ID.
+
+    Returns:
+        str: A unique video ID.
+    """
     global max_paragraphs
     # Generate video ID
     video_id = get_random_string(15)
@@ -72,6 +70,16 @@ def video_setup():
 
 # Video script from OpenAI
 def get_video_script(topic, video_id):
+    """
+    Generate a video script for a given topic using OpenAI.
+
+    Args:
+        topic (str): The topic for which the video script is to be generated.
+        video_id (str): A unique identifier for the video.
+
+    Returns:
+        bool: True if the video script is successfully generated, otherwise False.
+    """
     global max_paragraphs
 
     # Prompt
@@ -139,27 +147,54 @@ def sanitize_JSON(json_string):
 
     return json_string
 
-# TTS audio from Google Cloud
+# TTS audio from Balacoon TTS
+
 
 
 def get_tts_audio(video_id):
+    """
+    Generate Text-To-Speech (TTS) audio using Balacoon TTS for the paragraphs in the script.
+
+    Args:
+        video_id (str): A unique identifier for the video.
+
+    Returns:
+        bool: True if the TTS audio is successfully generated, otherwise False.
+    """
     global max_paragraphs
+    model_repo_dir = "/home/pwalch/projects/Files/YouTubeVideoTool/text2video/tts_models"  # Specify the directory where the model is located
+    model_name_str = "en_us_cmuartic_jets_cpu.addon"  # Specify the appropriate model file
+    speaker_str = "rxr"  # Specify the appropriate speaker
+    
+    # Here, we are downloading the Balacoon TTS model using Hugging Face Hub
+    # The model is downloaded only if it is not already present in the specified directory.
+    for name in list_repo_files(repo_id="balacoon/tts"):
+        if not os.path.isfile(os.path.join(model_repo_dir, name)):
+            hf_hub_download(
+                repo_id="balacoon/tts",
+                filename=name,
+                local_dir=model_repo_dir,
+            )
+    
+    model_path = os.path.join(model_repo_dir, model_name_str)
+    tts = TTS(model_path)  # Initializing the Balacoon TTS with the specified model
+    
     # Read script
     with open("videos/" + video_id + "/script.json", "r") as f:
         script = json.loads(f.read())
 
-    # for i in range(0, max_paragraphs):
     for i in tqdm(range(0, max_paragraphs)):
-        # Generate audio
-        result = speech_synthesizer.speak_text_async(
-            script["p" + str(i)]).get()
-        # Check result
-        if result.reason == speechsdk.ResultReason.SynthesizingAudioCompleted:
-            # Saves the synthesized speech to an audio file.
-            stream = speechsdk.AudioDataStream(result)
-            stream.save_to_wav_file(
-                "videos/" + video_id + "/p" + str(i) + "/audio.wav")
-
+        text_str = script["p" + str(i)]
+        if len(text_str) > 1024:  # Truncate the text if it is longer than 1024 characters
+            text_str = text_str[:1024]
+        
+        samples = tts.synthesize(text_str, speaker_str)  # Synthesize the audio using Balacoon TTS
+        
+        # Assuming `samples` is a numpy array representing the audio waveform
+        # Save it to a .wav file
+        output_file_path = "videos/" + video_id + "/p" + str(i) + "/audio.wav"
+        librosa.output.write_wav(output_file_path, samples, tts.get_sampling_rate())
+        
     return True
 
 
