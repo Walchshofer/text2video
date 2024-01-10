@@ -1,0 +1,910 @@
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/en_speaker_0.mp3
+  Gender: Male
+  Language: English
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/en_speaker_0.mp3
+  PromptName: v2/en_speaker_0
+  Speaker: Speaker 0 (EN)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/en_speaker_1.mp3
+  Gender: Male
+  Language: English
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/en_speaker_1.mp3
+  PromptName: v2/en_speaker_1
+  Speaker: Speaker 1 (EN)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/en_speaker_2.mp3
+  Gender: Male
+  Language: English
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/en_speaker_2.mp3
+  PromptName: v2/en_speaker_2
+  Speaker: Speaker 2 (EN)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/en_speaker_3.mp3
+  Gender: Male
+  Language: English
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/en_speaker_3.mp3
+  PromptName: v2/en_speaker_3
+  Speaker: Speaker 3 (EN)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/en_speaker_4.mp3
+  Gender: Male
+  Language: English
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/en_speaker_4.mp3
+  PromptName: v2/en_speaker_4
+  Speaker: Speaker 4 (EN)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/en_speaker_5.mp3
+  Gender: Male
+  Language: English
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/en_speaker_5.mp3
+  PromptName: v2/en_speaker_5
+  Speaker: Speaker 5 (EN)
+  Tags: Grainy
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/en_speaker_6.mp3
+  Gender: Male
+  Language: English
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/en_speaker_6.mp3
+  PromptName: v2/en_speaker_6
+  Speaker: Speaker 6 (EN)
+  Tags: Suno Favorite
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/en_speaker_7.mp3
+  Gender: Male
+  Language: English
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/en_speaker_7.mp3
+  PromptName: v2/en_speaker_7
+  Speaker: Speaker 7 (EN)
+  Tags: Very similar to Speaker 6 (EN)
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/en_speaker_8.mp3
+  Gender: Male
+  Language: English
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/en_speaker_8.mp3
+  PromptName: v2/en_speaker_8
+  Speaker: Speaker 8 (EN)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/en_speaker_9.mp3
+  Gender: Female
+  Language: English
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/en_speaker_9.mp3
+  PromptName: v2/en_speaker_9
+  Speaker: Speaker 9 (EN)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/zh_speaker_0.mp3
+  Gender: Male
+  Language: Chinese (Simplified)
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/zh_speaker_0.mp3
+  PromptName: v2/zh_speaker_0
+  Speaker: Speaker 0 (ZH)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/zh_speaker_1.mp3
+  Gender: Male
+  Language: Chinese (Simplified)
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/zh_speaker_1.mp3
+  PromptName: v2/zh_speaker_1
+  Speaker: Speaker 1 (ZH)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/zh_speaker_2.mp3
+  Gender: Male
+  Language: Chinese (Simplified)
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/zh_speaker_2.mp3
+  PromptName: v2/zh_speaker_2
+  Speaker: Speaker 2 (ZH)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/zh_speaker_3.mp3
+  Gender: Male
+  Language: Chinese (Simplified)
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/zh_speaker_3.mp3
+  PromptName: v2/zh_speaker_3
+  Speaker: Speaker 3 (ZH)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/zh_speaker_4.mp3
+  Gender: Female
+  Language: Chinese (Simplified)
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/zh_speaker_4.mp3
+  PromptName: v2/zh_speaker_4
+  Speaker: Speaker 4 (ZH)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/zh_speaker_5.mp3
+  Gender: Male
+  Language: Chinese (Simplified)
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/zh_speaker_5.mp3
+  PromptName: v2/zh_speaker_5
+  Speaker: Speaker 5 (ZH)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/zh_speaker_6.mp3
+  Gender: Female
+  Language: Chinese (Simplified)
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/zh_speaker_6.mp3
+  PromptName: v2/zh_speaker_6
+  Speaker: Speaker 6 (ZH)
+  Tags: Background Noise
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/zh_speaker_7.mp3
+  Gender: Female
+  Language: Chinese (Simplified)
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/zh_speaker_7.mp3
+  PromptName: v2/zh_speaker_7
+  Speaker: Speaker 7 (ZH)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/zh_speaker_8.mp3
+  Gender: Male
+  Language: Chinese (Simplified)
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/zh_speaker_8.mp3
+  PromptName: v2/zh_speaker_8
+  Speaker: Speaker 8 (ZH)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/zh_speaker_9.mp3
+  Gender: Female
+  Language: Chinese (Simplified)
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/zh_speaker_9.mp3
+  PromptName: v2/zh_speaker_9
+  Speaker: Speaker 9 (ZH)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/fr_speaker_0.mp3
+  Gender: Male
+  Language: French
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/fr_speaker_0.mp3
+  PromptName: v2/fr_speaker_0
+  Speaker: Speaker 0 (FR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/fr_speaker_1.mp3
+  Gender: Female
+  Language: French
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/fr_speaker_1.mp3
+  PromptName: v2/fr_speaker_1
+  Speaker: Speaker 1 (FR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/fr_speaker_2.mp3
+  Gender: Female
+  Language: French
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/fr_speaker_2.mp3
+  PromptName: v2/fr_speaker_2
+  Speaker: Speaker 2 (FR)
+  Tags: Prolonged silence at the beginning
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/fr_speaker_3.mp3
+  Gender: Male
+  Language: French
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/fr_speaker_3.mp3
+  PromptName: v2/fr_speaker_3
+  Speaker: Speaker 3 (FR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/fr_speaker_4.mp3
+  Gender: Male
+  Language: French
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/fr_speaker_4.mp3
+  PromptName: v2/fr_speaker_4
+  Speaker: Speaker 4 (FR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/fr_speaker_5.mp3
+  Gender: Female
+  Language: French
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/fr_speaker_5.mp3
+  PromptName: v2/fr_speaker_5
+  Speaker: Speaker 5 (FR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/fr_speaker_6.mp3
+  Gender: Male
+  Language: French
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/fr_speaker_6.mp3
+  PromptName: v2/fr_speaker_6
+  Speaker: Speaker 6 (FR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/fr_speaker_7.mp3
+  Gender: Male
+  Language: French
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/fr_speaker_7.mp3
+  PromptName: v2/fr_speaker_7
+  Speaker: Speaker 7 (FR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/fr_speaker_8.mp3
+  Gender: Male
+  Language: French
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/fr_speaker_8.mp3
+  PromptName: v2/fr_speaker_8
+  Speaker: Speaker 8 (FR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/fr_speaker_9.mp3
+  Gender: Male
+  Language: French
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/fr_speaker_9.mp3
+  PromptName: v2/fr_speaker_9
+  Speaker: Speaker 9 (FR)
+  Tags: Auditorium
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/de_speaker_0.mp3
+  Gender: Male
+  Language: German
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/de_speaker_0.mp3
+  PromptName: v2/de_speaker_0
+  Speaker: Speaker 0 (DE)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/de_speaker_1.mp3
+  Gender: Male
+  Language: German
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/de_speaker_1.mp3
+  PromptName: v2/de_speaker_1
+  Speaker: Speaker 1 (DE)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/de_speaker_2.mp3
+  Gender: Male
+  Language: German
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/de_speaker_2.mp3
+  PromptName: v2/de_speaker_2
+  Speaker: Speaker 2 (DE)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/de_speaker_3.mp3
+  Gender: Female
+  Language: German
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/de_speaker_3.mp3
+  PromptName: v2/de_speaker_3
+  Speaker: Speaker 3 (DE)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/de_speaker_4.mp3
+  Gender: Male
+  Language: German
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/de_speaker_4.mp3
+  PromptName: v2/de_speaker_4
+  Speaker: Speaker 4 (DE)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/de_speaker_5.mp3
+  Gender: Male
+  Language: German
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/de_speaker_5.mp3
+  PromptName: v2/de_speaker_5
+  Speaker: Speaker 5 (DE)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/de_speaker_6.mp3
+  Gender: Male
+  Language: German
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/de_speaker_6.mp3
+  PromptName: v2/de_speaker_6
+  Speaker: Speaker 6 (DE)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/de_speaker_7.mp3
+  Gender: Male
+  Language: German
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/de_speaker_7.mp3
+  PromptName: v2/de_speaker_7
+  Speaker: Speaker 7 (DE)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/de_speaker_8.mp3
+  Gender: Female
+  Language: German
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/de_speaker_8.mp3
+  PromptName: v2/de_speaker_8
+  Speaker: Speaker 8 (DE)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/de_speaker_9.mp3
+  Gender: Male
+  Language: German
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/de_speaker_9.mp3
+  PromptName: v2/de_speaker_9
+  Speaker: Speaker 9 (DE)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/hi_speaker_0.mp3
+  Gender: Female
+  Language: Hindi
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/hi_speaker_0.mp3
+  PromptName: v2/hi_speaker_0
+  Speaker: Speaker 0 (HI)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/hi_speaker_1.mp3
+  Gender: Female
+  Language: Hindi
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/hi_speaker_1.mp3
+  PromptName: v2/hi_speaker_1
+  Speaker: Speaker 1 (HI)
+  Tags: Background Noise
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/hi_speaker_2.mp3
+  Gender: Male
+  Language: Hindi
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/hi_speaker_2.mp3
+  PromptName: v2/hi_speaker_2
+  Speaker: Speaker 2 (HI)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/hi_speaker_3.mp3
+  Gender: Female
+  Language: Hindi
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/hi_speaker_3.mp3
+  PromptName: v2/hi_speaker_3
+  Speaker: Speaker 3 (HI)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/hi_speaker_4.mp3
+  Gender: Female
+  Language: Hindi
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/hi_speaker_4.mp3
+  PromptName: v2/hi_speaker_4
+  Speaker: Speaker 4 (HI)
+  Tags: Background Noise
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/hi_speaker_5.mp3
+  Gender: Male
+  Language: Hindi
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/hi_speaker_5.mp3
+  PromptName: v2/hi_speaker_5
+  Speaker: Speaker 5 (HI)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/hi_speaker_6.mp3
+  Gender: Male
+  Language: Hindi
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/hi_speaker_6.mp3
+  PromptName: v2/hi_speaker_6
+  Speaker: Speaker 6 (HI)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/hi_speaker_7.mp3
+  Gender: Male
+  Language: Hindi
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/hi_speaker_7.mp3
+  PromptName: v2/hi_speaker_7
+  Speaker: Speaker 7 (HI)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/hi_speaker_8.mp3
+  Gender: Male
+  Language: Hindi
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/hi_speaker_8.mp3
+  PromptName: v2/hi_speaker_8
+  Speaker: Speaker 8 (HI)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/hi_speaker_9.mp3
+  Gender: Female
+  Language: Hindi
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/hi_speaker_9.mp3
+  PromptName: v2/hi_speaker_9
+  Speaker: Speaker 9 (HI)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/it_speaker_0.mp3
+  Gender: Male
+  Language: Italian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/it_speaker_0.mp3
+  PromptName: v2/it_speaker_0
+  Speaker: Speaker 0 (IT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/it_speaker_1.mp3
+  Gender: Male
+  Language: Italian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/it_speaker_1.mp3
+  PromptName: v2/it_speaker_1
+  Speaker: Speaker 1 (IT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/it_speaker_2.mp3
+  Gender: Female
+  Language: Italian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/it_speaker_2.mp3
+  PromptName: v2/it_speaker_2
+  Speaker: Speaker 2 (IT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/it_speaker_3.mp3
+  Gender: Male
+  Language: Italian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/it_speaker_3.mp3
+  PromptName: v2/it_speaker_3
+  Speaker: Speaker 3 (IT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/it_speaker_4.mp3
+  Gender: Male
+  Language: Italian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/it_speaker_4.mp3
+  PromptName: v2/it_speaker_4
+  Speaker: Speaker 4 (IT)
+  Tags: Suno Favorite
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/it_speaker_5.mp3
+  Gender: Male
+  Language: Italian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/it_speaker_5.mp3
+  PromptName: v2/it_speaker_5
+  Speaker: Speaker 5 (IT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/it_speaker_6.mp3
+  Gender: Male
+  Language: Italian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/it_speaker_6.mp3
+  PromptName: v2/it_speaker_6
+  Speaker: Speaker 6 (IT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/it_speaker_7.mp3
+  Gender: Female
+  Language: Italian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/it_speaker_7.mp3
+  PromptName: v2/it_speaker_7
+  Speaker: Speaker 7 (IT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/it_speaker_8.mp3
+  Gender: Male
+  Language: Italian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/it_speaker_8.mp3
+  PromptName: v2/it_speaker_8
+  Speaker: Speaker 8 (IT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/it_speaker_9.mp3
+  Gender: Female
+  Language: Italian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/it_speaker_9.mp3
+  PromptName: v2/it_speaker_9
+  Speaker: Speaker 9 (IT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ja_speaker_0.mp3
+  Gender: Female
+  Language: Japanese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ja_speaker_0.mp3
+  PromptName: v2/ja_speaker_0
+  Speaker: Speaker 0 (JA)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ja_speaker_1.mp3
+  Gender: Female
+  Language: Japanese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ja_speaker_1.mp3
+  PromptName: v2/ja_speaker_1
+  Speaker: Speaker 1 (JA)
+  Tags: Background Noise
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ja_speaker_2.mp3
+  Gender: Male
+  Language: Japanese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ja_speaker_2.mp3
+  PromptName: v2/ja_speaker_2
+  Speaker: Speaker 2 (JA)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ja_speaker_3.mp3
+  Gender: Female
+  Language: Japanese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ja_speaker_3.mp3
+  PromptName: v2/ja_speaker_3
+  Speaker: Speaker 3 (JA)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ja_speaker_4.mp3
+  Gender: Female
+  Language: Japanese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ja_speaker_4.mp3
+  PromptName: v2/ja_speaker_4
+  Speaker: Speaker 4 (JA)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ja_speaker_5.mp3
+  Gender: Female
+  Language: Japanese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ja_speaker_5.mp3
+  PromptName: v2/ja_speaker_5
+  Speaker: Speaker 5 (JA)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ja_speaker_6.mp3
+  Gender: Male
+  Language: Japanese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ja_speaker_6.mp3
+  PromptName: v2/ja_speaker_6
+  Speaker: Speaker 6 (JA)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ja_speaker_7.mp3
+  Gender: Female
+  Language: Japanese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ja_speaker_7.mp3
+  PromptName: v2/ja_speaker_7
+  Speaker: Speaker 7 (JA)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ja_speaker_8.mp3
+  Gender: Female
+  Language: Japanese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ja_speaker_8.mp3
+  PromptName: v2/ja_speaker_8
+  Speaker: Speaker 8 (JA)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ja_speaker_9.mp3
+  Gender: Female
+  Language: Japanese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ja_speaker_9.mp3
+  PromptName: v2/ja_speaker_9
+  Speaker: Speaker 9 (JA)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ko_speaker_0.mp3
+  Gender: Female
+  Language: Korean
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ko_speaker_0.mp3
+  PromptName: v2/ko_speaker_0
+  Speaker: Speaker 0 (KO)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ko_speaker_1.mp3
+  Gender: Male
+  Language: Korean
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ko_speaker_1.mp3
+  PromptName: v2/ko_speaker_1
+  Speaker: Speaker 1 (KO)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ko_speaker_2.mp3
+  Gender: Male
+  Language: Korean
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ko_speaker_2.mp3
+  PromptName: v2/ko_speaker_2
+  Speaker: Speaker 2 (KO)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ko_speaker_3.mp3
+  Gender: Male
+  Language: Korean
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ko_speaker_3.mp3
+  PromptName: v2/ko_speaker_3
+  Speaker: Speaker 3 (KO)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ko_speaker_4.mp3
+  Gender: Male
+  Language: Korean
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ko_speaker_4.mp3
+  PromptName: v2/ko_speaker_4
+  Speaker: Speaker 4 (KO)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ko_speaker_5.mp3
+  Gender: Male
+  Language: Korean
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ko_speaker_5.mp3
+  PromptName: v2/ko_speaker_5
+  Speaker: Speaker 5 (KO)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ko_speaker_6.mp3
+  Gender: Male
+  Language: Korean
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ko_speaker_6.mp3
+  PromptName: v2/ko_speaker_6
+  Speaker: Speaker 6 (KO)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ko_speaker_7.mp3
+  Gender: Male
+  Language: Korean
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ko_speaker_7.mp3
+  PromptName: v2/ko_speaker_7
+  Speaker: Speaker 7 (KO)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ko_speaker_8.mp3
+  Gender: Male
+  Language: Korean
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ko_speaker_8.mp3
+  PromptName: v2/ko_speaker_8
+  Speaker: Speaker 8 (KO)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ko_speaker_9.mp3
+  Gender: Male
+  Language: Korean
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ko_speaker_9.mp3
+  PromptName: v2/ko_speaker_9
+  Speaker: Speaker 9 (KO)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pl_speaker_0.mp3
+  Gender: Male
+  Language: Polish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pl_speaker_0.mp3
+  PromptName: v2/pl_speaker_0
+  Speaker: Speaker 0 (PL)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pl_speaker_1.mp3
+  Gender: Male
+  Language: Polish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pl_speaker_1.mp3
+  PromptName: v2/pl_speaker_1
+  Speaker: Speaker 1 (PL)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pl_speaker_2.mp3
+  Gender: Male
+  Language: Polish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pl_speaker_2.mp3
+  PromptName: v2/pl_speaker_2
+  Speaker: Speaker 2 (PL)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pl_speaker_3.mp3
+  Gender: Male
+  Language: Polish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pl_speaker_3.mp3
+  PromptName: v2/pl_speaker_3
+  Speaker: Speaker 3 (PL)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pl_speaker_4.mp3
+  Gender: Female
+  Language: Polish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pl_speaker_4.mp3
+  PromptName: v2/pl_speaker_4
+  Speaker: Speaker 4 (PL)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pl_speaker_5.mp3
+  Gender: Male
+  Language: Polish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pl_speaker_5.mp3
+  PromptName: v2/pl_speaker_5
+  Speaker: Speaker 5 (PL)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pl_speaker_6.mp3
+  Gender: Female
+  Language: Polish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pl_speaker_6.mp3
+  PromptName: v2/pl_speaker_6
+  Speaker: Speaker 6 (PL)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pl_speaker_7.mp3
+  Gender: Male
+  Language: Polish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pl_speaker_7.mp3
+  PromptName: v2/pl_speaker_7
+  Speaker: Speaker 7 (PL)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pl_speaker_8.mp3
+  Gender: Male
+  Language: Polish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pl_speaker_8.mp3
+  PromptName: v2/pl_speaker_8
+  Speaker: Speaker 8 (PL)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pl_speaker_9.mp3
+  Gender: Female
+  Language: Polish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pl_speaker_9.mp3
+  PromptName: v2/pl_speaker_9
+  Speaker: Speaker 9 (PL)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pt_speaker_0.mp3
+  Gender: Male
+  Language: Portuguese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pt_speaker_0.mp3
+  PromptName: v2/pt_speaker_0
+  Speaker: Speaker 0 (PT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pt_speaker_1.mp3
+  Gender: Male
+  Language: Portuguese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pt_speaker_1.mp3
+  PromptName: v2/pt_speaker_1
+  Speaker: Speaker 1 (PT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pt_speaker_2.mp3
+  Gender: Male
+  Language: Portuguese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pt_speaker_2.mp3
+  PromptName: v2/pt_speaker_2
+  Speaker: Speaker 2 (PT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pt_speaker_3.mp3
+  Gender: Male
+  Language: Portuguese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pt_speaker_3.mp3
+  PromptName: v2/pt_speaker_3
+  Speaker: Speaker 3 (PT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pt_speaker_4.mp3
+  Gender: Male
+  Language: Portuguese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pt_speaker_4.mp3
+  PromptName: v2/pt_speaker_4
+  Speaker: Speaker 4 (PT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pt_speaker_5.mp3
+  Gender: Male
+  Language: Portuguese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pt_speaker_5.mp3
+  PromptName: v2/pt_speaker_5
+  Speaker: Speaker 5 (PT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pt_speaker_6.mp3
+  Gender: Male
+  Language: Portuguese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pt_speaker_6.mp3
+  PromptName: v2/pt_speaker_6
+  Speaker: Speaker 6 (PT)
+  Tags: Background Noise
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pt_speaker_7.mp3
+  Gender: Male
+  Language: Portuguese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pt_speaker_7.mp3
+  PromptName: v2/pt_speaker_7
+  Speaker: Speaker 7 (PT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pt_speaker_8.mp3
+  Gender: Male
+  Language: Portuguese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pt_speaker_8.mp3
+  PromptName: v2/pt_speaker_8
+  Speaker: Speaker 8 (PT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/pt_speaker_9.mp3
+  Gender: Male
+  Language: Portuguese
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/pt_speaker_9.mp3
+  PromptName: v2/pt_speaker_9
+  Speaker: Speaker 9 (PT)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ru_speaker_0.mp3
+  Gender: Male
+  Language: Russian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ru_speaker_0.mp3
+  PromptName: v2/ru_speaker_0
+  Speaker: Speaker 0 (RU)
+  Tags: Prolonged silence at the beginning
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ru_speaker_1.mp3
+  Gender: Male
+  Language: Russian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ru_speaker_1.mp3
+  PromptName: v2/ru_speaker_1
+  Speaker: Speaker 1 (RU)
+  Tags: "EchoesIt almost sounds like there\u2019s a translator"
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ru_speaker_2.mp3
+  Gender: Male
+  Language: Russian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ru_speaker_2.mp3
+  PromptName: v2/ru_speaker_2
+  Speaker: Speaker 2 (RU)
+  Tags: "EchoesIt almost sounds like there\u2019s a translator"
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ru_speaker_3.mp3
+  Gender: Male
+  Language: Russian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ru_speaker_3.mp3
+  PromptName: v2/ru_speaker_3
+  Speaker: Speaker 3 (RU)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ru_speaker_4.mp3
+  Gender: Male
+  Language: Russian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ru_speaker_4.mp3
+  PromptName: v2/ru_speaker_4
+  Speaker: Speaker 4 (RU)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ru_speaker_5.mp3
+  Gender: Female
+  Language: Russian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ru_speaker_5.mp3
+  PromptName: v2/ru_speaker_5
+  Speaker: Speaker 5 (RU)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ru_speaker_6.mp3
+  Gender: Female
+  Language: Russian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ru_speaker_6.mp3
+  PromptName: v2/ru_speaker_6
+  Speaker: Speaker 6 (RU)
+  Tags: Grainy
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ru_speaker_7.mp3
+  Gender: Male
+  Language: Russian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ru_speaker_7.mp3
+  PromptName: v2/ru_speaker_7
+  Speaker: Speaker 7 (RU)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ru_speaker_8.mp3
+  Gender: Male
+  Language: Russian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ru_speaker_8.mp3
+  PromptName: v2/ru_speaker_8
+  Speaker: Speaker 8 (RU)
+  Tags: Grainy
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/ru_speaker_9.mp3
+  Gender: Female
+  Language: Russian
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/ru_speaker_9.mp3
+  PromptName: v2/ru_speaker_9
+  Speaker: Speaker 9 (RU)
+  Tags: Grainy
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/es_speaker_0.mp3
+  Gender: Male
+  Language: Spanish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/es_speaker_0.mp3
+  PromptName: v2/es_speaker_0
+  Speaker: Speaker 0 (ES)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/es_speaker_1.mp3
+  Gender: Male
+  Language: Spanish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/es_speaker_1.mp3
+  PromptName: v2/es_speaker_1
+  Speaker: Speaker 1 (ES)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/es_speaker_2.mp3
+  Gender: Male
+  Language: Spanish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/es_speaker_2.mp3
+  PromptName: v2/es_speaker_2
+  Speaker: Speaker 2 (ES)
+  Tags: Background Noise
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/es_speaker_3.mp3
+  Gender: Male
+  Language: Spanish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/es_speaker_3.mp3
+  PromptName: v2/es_speaker_3
+  Speaker: Speaker 3 (ES)
+  Tags: Background Noise
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/es_speaker_4.mp3
+  Gender: Male
+  Language: Spanish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/es_speaker_4.mp3
+  PromptName: v2/es_speaker_4
+  Speaker: Speaker 4 (ES)
+  Tags: Starts at the end of another utterance
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/es_speaker_5.mp3
+  Gender: Male
+  Language: Spanish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/es_speaker_5.mp3
+  PromptName: v2/es_speaker_5
+  Speaker: Speaker 5 (ES)
+  Tags: Background Noise
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/es_speaker_6.mp3
+  Gender: Male
+  Language: Spanish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/es_speaker_6.mp3
+  PromptName: v2/es_speaker_6
+  Speaker: Speaker 6 (ES)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/es_speaker_7.mp3
+  Gender: Male
+  Language: Spanish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/es_speaker_7.mp3
+  PromptName: v2/es_speaker_7
+  Speaker: Speaker 7 (ES)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/es_speaker_8.mp3
+  Gender: Female
+  Language: Spanish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/es_speaker_8.mp3
+  PromptName: v2/es_speaker_8
+  Speaker: Speaker 8 (ES)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/es_speaker_9.mp3
+  Gender: Female
+  Language: Spanish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/es_speaker_9.mp3
+  PromptName: v2/es_speaker_9
+  Speaker: Speaker 9 (ES)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/tr_speaker_0.mp3
+  Gender: Male
+  Language: Turkish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/tr_speaker_0.mp3
+  PromptName: v2/tr_speaker_0
+  Speaker: Speaker 0 (TR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/tr_speaker_1.mp3
+  Gender: Male
+  Language: Turkish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/tr_speaker_1.mp3
+  PromptName: v2/tr_speaker_1
+  Speaker: Speaker 1 (TR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/tr_speaker_2.mp3
+  Gender: Male
+  Language: Turkish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/tr_speaker_2.mp3
+  PromptName: v2/tr_speaker_2
+  Speaker: Speaker 2 (TR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/tr_speaker_3.mp3
+  Gender: Male
+  Language: Turkish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/tr_speaker_3.mp3
+  PromptName: v2/tr_speaker_3
+  Speaker: Speaker 3 (TR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/tr_speaker_4.mp3
+  Gender: Female
+  Language: Turkish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/tr_speaker_4.mp3
+  PromptName: v2/tr_speaker_4
+  Speaker: Speaker 4 (TR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/tr_speaker_5.mp3
+  Gender: Female
+  Language: Turkish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/tr_speaker_5.mp3
+  PromptName: v2/tr_speaker_5
+  Speaker: Speaker 5 (TR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/tr_speaker_6.mp3
+  Gender: Male
+  Language: Turkish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/tr_speaker_6.mp3
+  PromptName: v2/tr_speaker_6
+  Speaker: Speaker 6 (TR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/tr_speaker_7.mp3
+  Gender: Male
+  Language: Turkish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/tr_speaker_7.mp3
+  PromptName: v2/tr_speaker_7
+  Speaker: Speaker 7 (TR)
+  Tags: Grainy
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/tr_speaker_8.mp3
+  Gender: Male
+  Language: Turkish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/tr_speaker_8.mp3
+  PromptName: v2/tr_speaker_8
+  Speaker: Speaker 8 (TR)
+  Tags: ''
+- ContinuationAudioLink: https://dl.suno-models.io/bark/prompts/continuation_audio/tr_speaker_9.mp3
+  Gender: Male
+  Language: Turkish
+  PromptAudioLink: https://dl.suno-models.io/bark/prompts/prompt_audio/tr_speaker_9.mp3
+  PromptName: v2/tr_speaker_9
+  Speaker: Speaker 9 (TR)
+  Tags: ''
